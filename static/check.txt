@@ -1,0 +1,1 @@
+This is file inside static folder and it can be seen from web /static/check.txt
