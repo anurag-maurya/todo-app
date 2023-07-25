@@ -12,3 +12,6 @@ db.create()
 
 pip install gunicorn
 pip freeze >requirements.txt    # it will craete a requirements.txt file and automatically fill the all requirements based on app, It helps to deploye the website.
+
+Deployed this project on pythonanywhere hosting
+http://amaurya.pythonanywhere.com/
